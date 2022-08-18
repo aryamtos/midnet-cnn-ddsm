@@ -10,7 +10,7 @@ Foram utilizadas operações convolutivas com kernel 3x3, como resultado da conv
 - *Dropout*
 - *Batchnormalization*
 
-![Untitled](MidNet%20Convolutional%20Network%20329afeb928c843039c23f64dd18fcfef/Untitled.png)
+![Untitled](MidNet%20Convolutional%20Network/Untitled.png)
 
 **Link Abaixo**
 
@@ -34,7 +34,7 @@ Tasks include displays, basic manipulations like cropping, flipping, rotating, s
 4. Extraction pectoral Muscle
 5. Extraction ROI
 
-![Untitled](MidNet%20Convolutional%20Network%20329afeb928c843039c23f64dd18fcfef/Untitled%201.png)
+![Untitled](MidNet%20Convolutional%20Network/Untitled%201.png)
 
 ## Python Image Manipulation Tools
 
@@ -49,7 +49,7 @@ Tasks include displays, basic manipulations like cropping, flipping, rotating, s
 1. Limiar Threshold
 2.  Watershed Segmentation
 
-![Untitled](MidNet%20Convolutional%20Network%20329afeb928c843039c23f64dd18fcfef/Untitled%202.png)
+![Untitled](MidNet%20Convolutional%20Network/Untitled%202.png)
 
 ## Data Augmentation
 

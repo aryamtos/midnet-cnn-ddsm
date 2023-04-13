@@ -70,8 +70,4 @@ Technique used to expand or enlarge your dataset by using the existing data of t
 
 Link : [https://www.tensorflow.org/tutorials/images/data_augmentation?hl=en](https://www.tensorflow.org/tutorials/images/data_augmentation?hl=en)
 
-### Paper
-
-### Cite:
-
-**[MATOS, A. N.](http://lattes.cnpq.br/4915122145392923)**; [AMBRÓSIO, Paulo E](http://lattes.cnpq.br/5034444360451621). Detecção de anormalidades em imagens mamográficas com deep learning. Brazilian Journal of Health Review, 2022.
+To do:
